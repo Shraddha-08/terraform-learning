@@ -1,3 +1,5 @@
+#Lab2
+
 provider "aws" {
     region = "ap-south-1"
 
@@ -45,3 +47,7 @@ resource "aws_instance" "sec-grp-with-ec2-by-tf" {
 
   }
 }
+
+
+
+
