@@ -1,0 +1,10 @@
+terraform init
+
+terrform plan
+
+terraform apply
+OR
+terraform apply -auto-approve
+
+# To destroy test1 instance only
+terraform destroy -target=aws_instance.test1
