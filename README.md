@@ -1,4 +1,5 @@
-# terraform-learning
+Welcome to terraform-learning :)
+I hope you will enjoy it.
 Simple basic labs for terraform learning
 
 All you need to run commands are as follows:
