@@ -1,4 +1,3 @@
-#Lab1
 provider "aws" {
     region = "ap-south-1"
 }
