@@ -1,4 +1,3 @@
-#Lab4
 provider "aws" {
     region = var.region
   
